@@ -1,4 +1,7 @@
 # Sentiment Analysis for User Reviews
+本範例程式使用.Net Core 2.1 主控台應用程式來進行開發，
+並使用ML.NET的其中一種分類器 BinaryClassification （二元分類器） 來進行情感分析
+主程式進入點為Program.cs，裡面每一行都有中文註解
 
 | ML.NET version | API type          | Status                        | App Type    | Data type | Scenario            | ML Task                   | Algorithms                  |
 |----------------|-------------------|-------------------------------|-------------|-----------|---------------------|---------------------------|-----------------------------|
